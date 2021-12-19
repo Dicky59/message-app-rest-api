@@ -1,3 +1,3 @@
 # message-app-rest-api
 
-message application as restful api
+NodeJS exercise: message application as restful api
